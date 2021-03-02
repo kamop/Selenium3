@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="register-on-chataja-btwob;user-success-register-on-btwob-chataja" tests="12" failures="0" skipped="0">
+        <properties>
+            <property name="@success" value="true">
+            </property>
+            <property name="URI" value="/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/features/register.feature">
+            </property>
+        </properties>
+        <testcase name="Given User browse chatAja btwob login page to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000672127">
+        </testcase>
+        <testcase name="And User click Sign Up Here button to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000400621">
+        </testcase>
+        <testcase name="And User fill email to register to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000152876">
+        </testcase>
+        <testcase name="And User fill name to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000118782">
+        </testcase>
+        <testcase name="And User fill business name to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000108476">
+        </testcase>
+        <testcase name="And User fill phone number to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000096907">
+        </testcase>
+        <testcase name="And User fill business category to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000109131">
+        </testcase>
+        <testcase name="And User fill business sub category to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000125773">
+        </testcase>
+        <testcase name="And User fill password to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000099229">
+        </testcase>
+        <testcase name="And User fill retype password to regis" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000126503">
+        </testcase>
+        <testcase name="When User click register button to register" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.000114672">
+        </testcase>
+        <testcase name="Then User success register on btwob chat aja" classname="register-on-chataja-btwob;user-success-register-on-btwob-chataja" time="0.001358013">
+        </testcase>
+    </testsuite>
+</testsuites>

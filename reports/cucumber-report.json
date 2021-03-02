@@ -1,0 +1,196 @@
+[
+  {
+    "description": "    As a user, I want to be able to register",
+    "elements": [
+      {
+        "id": "register-on-chataja-btwob;user-success-register-on-btwob-chataja",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "User success register on btwob chataja",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "User browse chatAja btwob login page to register",
+            "result": {
+              "status": "passed",
+              "duration": 672127
+            },
+            "line": 8,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:2"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User click Sign Up Here button to register",
+            "result": {
+              "status": "passed",
+              "duration": 400621
+            },
+            "line": 9,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User fill email to register to register",
+            "result": {
+              "status": "passed",
+              "duration": 152876
+            },
+            "line": 10,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User fill name to register",
+            "result": {
+              "status": "passed",
+              "duration": 118782
+            },
+            "line": 11,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:20"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User fill business name to register",
+            "result": {
+              "status": "passed",
+              "duration": 108476
+            },
+            "line": 12,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:26"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User fill phone number to register",
+            "result": {
+              "status": "passed",
+              "duration": 96907
+            },
+            "line": 13,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:32"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User fill business category to register",
+            "result": {
+              "status": "passed",
+              "duration": 109131
+            },
+            "line": 14,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:38"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User fill business sub category to register",
+            "result": {
+              "status": "passed",
+              "duration": 125773
+            },
+            "line": 15,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:44"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User fill password to register",
+            "result": {
+              "status": "passed",
+              "duration": 99229
+            },
+            "line": 16,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:50"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User fill retype password to regis",
+            "result": {
+              "status": "passed",
+              "duration": 126503
+            },
+            "line": 17,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:56"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "User click register button to register",
+            "result": {
+              "status": "passed",
+              "duration": 114672
+            },
+            "line": 18,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:62"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "User success register on btwob chat aja",
+            "result": {
+              "status": "passed",
+              "duration": 1358013
+            },
+            "line": 19,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/step-definitions/register-step.js:68"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 11968163686
+            },
+            "hidden": true,
+            "match": {
+              "location": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/node_modules/selenium-cucumber-js/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@success",
+            "line": 6
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "register-on-chataja-btwob",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Register on chataja btwob",
+    "tags": [],
+    "uri": "/home/you/Documents/testing/vutura/functional-testing-b2b-chataja/features/register.feature"
+  }
+]
